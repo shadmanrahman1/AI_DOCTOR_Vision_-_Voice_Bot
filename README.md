@@ -10,14 +10,10 @@ An intelligent medical assistant that combines voice input, image analysis, and 
 - **🔊 Voice Output**: Text-to-speech responses for accessibility
 - **🌐 Web Interface**: Easy-to-use Gradio-based UI
 
-## 🚀 Demo
-
-![AI Doctor Bot Demo](https://via.placeholder.com/800x400/0066cc/ffffff?text=AI+Doctor+Bot+Demo)
-
-## 📋 Prerequisites
+##  Prerequisites
 
 - Python 3.8+
-- Groq API Key (free at [console.groq.com](https://console.groq.com))
+- Groq API Key
 - Microphone access for voice input
 - Internet connection for AI model access
 
@@ -113,27 +109,6 @@ ai-doctor-bot/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- [Groq](https://groq.com/) for providing the AI models
-- [Gradio](https://gradio.app/) for the web interface framework
-- [OpenAI Whisper](https://openai.com/research/whisper) for speech recognition
-- [Google Text-to-Speech](https://cloud.google.com/text-to-speech) for voice synthesis
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/yourusername/ai-doctor-bot/issues) page
-2. Create a new issue with detailed description
-3. Contact: your.email@example.com
-
-## 🔄 Version History
-
-- **v1.0.0** - Initial release with voice input, image analysis, and AI diagnosis
-- **v1.1.0** - Added text-to-speech output and improved UI
-- **v1.2.0** - Enhanced error handling and documentation
 
 ---
 
