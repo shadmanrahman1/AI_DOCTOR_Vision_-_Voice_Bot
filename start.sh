@@ -1,7 +1,4 @@
 #!/bin/bash
 
-# Install Python dependencies
-pip install -r requirements-render.txt
-
-# Start the Gradio app
+# Start the Gradio app (dependencies are installed automatically by Render from requirements.txt)
 python gradio_app_render.py
